@@ -15,10 +15,10 @@
   },
   "Edpuzzle": {
     "Highlighter": {
-      "script": ""
+      "script": "https://rawcdn.githack.com/YuNgOoZe/Scripts/5156f5b694370bd088d63bff10a98b4c6a222a7f/Edpuzzle/Release.js"
     },
   "Get Answers": {
-      "script": ""
+      "script": "https://rawcdn.githack.com/YuNgOoZe/Scripts/5156f5b694370bd088d63bff10a98b4c6a222a7f/Edpuzzle/EdpuzzleGetAnswers.js"
     }
   }
 }
