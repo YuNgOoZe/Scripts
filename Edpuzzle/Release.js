@@ -32,7 +32,7 @@ if (document.location.href.includes("edpuzzle.com/assignments/")) {
 	xhttp.open("GET", APIURL, 0)
 	xhttp.send()
 	QuizData = JSON.parse(xhttp.responseText)
-	
+
 	This does though??????
 	$.get(APIURL).success((response) => {
 		console.log(response)
@@ -57,7 +57,7 @@ if (document.location.href.includes("edpuzzle.com/assignments/")) {
 	xhttp.open("GET", APIURL, 0)
 	xhttp.send()
 	QuizData = JSON.parse(xhttp.responseText)
-	
+
 	This does though??????
 	$.get(APIURL).success((response) => {
 		console.log(response)
