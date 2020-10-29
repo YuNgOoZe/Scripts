@@ -12,5 +12,13 @@
     "Get Answers": {
       "script": "https://rawcdn.githack.com/YuNgOoZe/Scripts/70ff286baec07166a1ec974eedb083f4dd651f77/Quizizz/QuizzizGetAnswers.js"
     }
+  },
+  "Edpuzzle": {
+    "Highlighter": {
+      "script": ""
+    },
+  "Get Answers": {
+      "script": ""
+    }
   }
 }
